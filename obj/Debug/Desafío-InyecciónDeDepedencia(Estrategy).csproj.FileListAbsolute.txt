@@ -1,0 +1,7 @@
+D:\Users\omarm\source\QuarkAcademy\POO\UML-Dependencia\Desafío-InyecciónDeDepedencia(Estrategy)\bin\Debug\Desafío-InyecciónDeDepedencia(Estrategy).exe.config
+D:\Users\omarm\source\QuarkAcademy\POO\UML-Dependencia\Desafío-InyecciónDeDepedencia(Estrategy)\bin\Debug\Desafío-InyecciónDeDepedencia(Estrategy).exe
+D:\Users\omarm\source\QuarkAcademy\POO\UML-Dependencia\Desafío-InyecciónDeDepedencia(Estrategy)\bin\Debug\Desafío-InyecciónDeDepedencia(Estrategy).pdb
+D:\Users\omarm\source\QuarkAcademy\POO\UML-Dependencia\Desafío-InyecciónDeDepedencia(Estrategy)\obj\Debug\Desafío-InyecciónDeDepedencia(Estrategy).csproj.AssemblyReference.cache
+D:\Users\omarm\source\QuarkAcademy\POO\UML-Dependencia\Desafío-InyecciónDeDepedencia(Estrategy)\obj\Debug\Desafío-InyecciónDeDepedencia(Estrategy).csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\QuarkAcademy\POO\UML-Dependencia\Desafío-InyecciónDeDepedencia(Estrategy)\obj\Debug\Desafío-InyecciónDeDepedencia(Estrategy).exe
+D:\Users\omarm\source\QuarkAcademy\POO\UML-Dependencia\Desafío-InyecciónDeDepedencia(Estrategy)\obj\Debug\Desafío-InyecciónDeDepedencia(Estrategy).pdb
